@@ -3,3 +3,6 @@ rvm:
   - 2.2.0
 sudo: false
 script: bundle exec rake deploy
+env:
+  global:
+    secure: "Knw0Kj6JluxoPLnPKOONboQ1fSGt/T0CW0juwMP1e/DHeIcVLqodV+slxfAo+yA78/4g+N819arJrIHbwzz0TfLL6nAMc6qC8qKzzjOfW3Dn5bIgqkXrOl1zH7Ean6jBKAS2dsP7lFizvUgBe7d/06MLCJ8CRtPjBG8wzNOqdJXgVhBl5QqxGpz7Dg/kHxAGH8Hi4FPAkbWQfdNZsbcZb8KITF5P7HDPvhFJC+CfrJzyAn742JuWC/SS8KQOBX33h9BT8WkDsia1qs7OlQWlVc++fpljUNW8N/4y/cKudKEq5P0wL4vuP3WakctdWnhldT+JYaGAZZ6x/s4yEb6ArNxmD+3eq2p1anhdxiB+ZkO7LR4A2aUj4UbT0ghLJecznxMYw4kil31ouklhkBJVZEFzC4TPkFiq809KXpS7SZwVICtZkGHKR/pTU1e+rwdcFpJdyu/GWTJ7h/6cGFlEgLFzJGVt5k37MvcuRob17flH2fOqxY/GlPF+X89MzPc0gwnjYaPPZ/YX6BlAaxhHdbYKU/tFkLEJoqRiyWwYpnk2LvzGSwHTK+4XODCq/u5NoJgiiPTYiZdBL4NIYyo+xLORhW+DeM7ADgbUK6b5g/PoMGm2eLmFCOHXEQl+uR3pKXtxueH655aKiPDh1X3VQSJpu/euqHMTqlGskkChYQk="
